@@ -1,0 +1,517 @@
+@media(max-width: 459px){
+	.banner h1{
+		font-size: 35px;
+	}
+	.banner h6{
+		margin-top: 40px;
+	}
+	.banner p{
+		margin: 30px 0px 30px 0px;
+	}
+	.banner .butt button{
+		display: block;
+		margin: 10px 0px 15px 0px;
+	}
+
+
+	/*feature section starts here*/
+	.feature .headings img{
+		margin: 20px 0px 40px;
+	}
+	.feature .inner-feature p{
+		margin: 30px 0px 40px 0px;
+	}
+	/*feature section ends here*/
+
+
+	/*about section starts here*/
+	.about .device img{
+		width: 70%;
+		margin-top: 20px;
+	}
+	.about .device{
+		text-align: center;
+	}
+	.about .details h6{
+		margin-top: 30px;
+	}
+	.about .details{
+		text-align: center;
+	}
+	.about .details .first{
+		margin: 10px 0px 15px 0px;
+		font-size: 15px;
+	}
+	.about .details .info p{
+		margin-bottom: 5px;
+	}
+	.about .info{
+		margin-bottom: 30px;
+	}
+	/*about section ends here*/
+
+
+	/*short section starts here*/
+	.short .info{
+		text-align: center;
+	}
+	.short .device img{
+		width: 70%;
+		margin-top: 10px;
+	}
+	.short .device{
+		text-align: center;
+	}
+	.short .info p{
+		margin: 30px 0px 20px 0px;
+	}
+	.short .info h6{
+		margin-top: 50px;
+	}
+	/*shorts section ends here*/
+
+
+	/*testimonial section starts here*/
+	.testimonial .headings h6{
+		margin-top: 40px;
+		font-size: 14px;
+	}
+	.testimonial .headings h3{
+		font-size: 30px;
+		margin: 18px 0px 8px 0px;
+}
+	.testimonial .details p{
+		margin: 20px 0px 40px 0px;
+		font-size: 13px;
+		text-align: center;
+	}
+	.owl-theme .owl-dots .owl-dot {
+   		margin: 15px 0px 40px 0px;
+	}
+	.testimonial .details .item .col-2{
+		width:20%;
+	}
+	.testimonial .details .item .col-10{
+		width:80%;
+		text-align: left;
+	}
+	.testimonial .details .item img{
+		width: 100%;
+	}
+	.testimonial .details h5{
+		font-size: 15px;
+	}
+	.testimonial .details h6{
+		font-size: 12px;
+	}
+	/*testimonial section ends here*/
+
+	/*eye section starts here*/
+	.eye .first h2{
+		margin: 20px 0px 20px;
+	}
+	.eye .first{
+		text-align: center;
+	}
+	.eye .second button{
+		margin: 10px 5px 30px 5px;
+	}
+	/*eye section ends here*/
+
+
+	/*price section starts here*/
+	.price .col-sm-6{
+		width: 80%;
+		margin: auto;
+	}
+	.price .inner-price{
+		margin:20px 0px 0px 0px;
+	}
+	.price .headings img{
+		margin-bottom: 20px;
+	}
+	.price .headings h6{
+		margin-top: 40px;
+	}
+	/*price section ends here*/
+}
+
+
+
+
+/*for xs*/
+@media(min-width: 460px) and (max-width: 575px){
+	/*header section starts here*/
+	.banner .col-lg-6{
+		width: 80%;
+	}
+	.banner h1{
+		font-size: 35px;
+	}
+	.banner p{
+		margin: 30px 0px 40px 0px;
+	}
+	/*header section ends here*/
+
+
+	/*feature section starts here*/
+	.feature .headings img{
+		margin: 20px 0px 40px;
+	}
+	.feature .inner-feature p{
+		margin: 30px 0px 40px 0px;
+	}
+	/*feature section ends here*/
+
+
+	/*about section starts here*/
+	.about .device img{
+		width: 70%;
+	}
+	.about .device{
+		text-align: center;
+	}
+	.about .details h6{
+		margin-top: 30px;
+	}
+	.about .details{
+		text-align: center;
+	}
+	.about .details .first{
+		margin: 10px 0px 15px 0px;
+		font-size: 15px;
+	}
+	.about .details .info p{
+		margin-bottom: 5px;
+	}
+	.about .info{
+		margin-bottom: 30px;
+	}
+	/*about section ends here*/
+
+
+	/*short section starts here*/
+	.short .info{
+		text-align: center;
+	}
+	.short .device img{
+		width: 70%;
+		margin-top: 10px;
+	}
+	.short .device{
+		text-align: center;
+	}
+	.short .info p{
+		margin: 30px 0px 20px 0px;
+	}
+	.short .info h6{
+		margin-top: 50px;
+	}
+	/*shorts section ends here*/
+
+
+	/*testimonial section starts here*/
+	.testimonial .headings h6{
+		margin-top: 50px;
+	}
+	.testimonial .details p{
+		margin: 30px 0px 30px 0px;
+		font-size: 14px;
+		text-align: center;
+	}
+	.owl-theme .owl-dots .owl-dot {
+   		margin: 15px 0px 40px 0px;
+	}
+	/*testimonial section ends here*/
+
+
+	/*eye section starts here*/
+	.eye .first h2{
+		margin: 20px 0px 20px;
+	}
+	.eye .first{
+		text-align: center;
+	}
+	.eye .second button{
+		margin: 10px 5px 40px 5px;
+	}
+	/*eye section ends here*/
+
+
+	/*price section starts here*/
+	.price .col-sm-6{
+		width: 50%;
+	}
+	.price .inner-price{
+		margin:20px 0px 0px 0px;
+	}
+	.price .headings img{
+		margin-bottom: 20px;
+	}
+	.price .headings h6{
+		margin-top: 40px;
+	}
+	/*price section ends here*/
+}
+
+
+
+
+/*for sm*/
+@media(min-width: 576px) and (max-width: 767px){
+	/*header section starts here*/
+	.banner .col-lg-6{
+		width: 70%;
+	}
+	.banner h1{
+		font-size: 35px;
+	}
+	.banner p{
+		margin: 30px 0px 40px 0px;
+	}
+	/*header section ends here*/
+
+
+	/*feature section starts here*/
+	.feature .headings img{
+		margin: 20px 0px 50px;
+	}
+	.feature .inner-feature p{
+		margin: 30px 0px 50px 0px;
+	}
+	.feature .headings h6{
+		margin-top: 10px ;
+	}
+	/*feature section ends here*/
+
+
+	/*about section starts here*/
+	.about .device img{
+		width: 70%;
+	}
+	.about .device{
+		text-align: center;
+	}
+	.about .details h6{
+		margin-top: 30px;
+	}
+	.about .details{
+		text-align: center;
+	}
+	.about .details .first{
+		margin: 10px 0px 15px 0px;
+		font-size: 15px;
+	}
+	.about .details .info p{
+		margin-bottom: 5px;
+	}
+	.about .info{
+		margin-bottom: 30px;
+	}
+	/*about section ends here*/
+
+
+	/*short section starts here*/
+	.short .info{
+		text-align: center;
+	}
+	.short .device img{
+		width: 70%;
+		margin-top: 10px;
+	}
+	.short .device{
+		text-align: center;
+	}
+	.short .info p{
+		margin: 30px 0px 20px 0px;
+	}
+	.short .info h6{
+		margin-top: 50px;
+	}
+	/*shorts section ends here*/
+
+
+	/*testimonial section starts here*/
+	.owl-theme .owl-dots .owl-dot {
+    	margin: 15px 0px 50px 0px;
+	}
+	.testimonial .details p{
+		margin: 30px 0px 20px 0px;
+		font-size: 14px;
+	}	
+	.testimonial .details h6{
+		font-size: 13px;
+		margin-left: 10px;
+	}
+	.testimonial .details h5{
+		font-size: 17px;
+		margin-left: 10px;
+	}
+	/*testimonial section ends here*/
+
+
+	/*eye section starts here*/
+	.eye .second button{
+		margin: 10px 5px 10px 5px;
+
+	}
+	/*eye section ends here*/
+
+
+	/*price section starts here*/
+	.price .inner-price{
+		margin:20px 0px 0px 0px;
+	}
+	.price .headings img{
+		margin-bottom: 30px;
+	}
+	/*price section ends here*/
+}
+
+
+
+/*for md*/
+@media(min-width: 768px) and (max-width: 991px){
+	/*header section starts here*/
+	.banner .col-lg-6{
+		width: 70%;
+	}
+	/*header section ends here*/
+
+
+	/*feature section starts here*/
+	.feature .headings img{
+		margin: 20px 0px 50px;
+	}
+	.feature .inner-feature p{
+		margin: 30px 0px 50px 0px;
+	}
+	/*feature section ends here*/
+
+
+	/*about section starts here*/
+	.about .device img{
+		margin: 100px 0px 0px 0px;
+	}
+	.about .details h6{
+		margin-top: 50px;
+	}
+	.about .details h3{
+		margin: 10px 0px 10px 0px;
+	}
+	.about .details .first{
+		margin: 10px 0px 20px 0px;
+	}
+	.about .details .info p{
+		margin-bottom: 5px;
+	}
+	.about .info{
+		margin-bottom: 40px;
+	}
+	/*about section ends here*/
+
+
+	/*short section starts here*/
+	.short .info{
+		text-align: center;
+	}
+	.short .device img{
+		width: 70%;
+		margin-top: 20px;
+	}
+	.short .device{
+		text-align: center;
+	}
+	.short .info p{
+		margin: 30px 0px 30px 0px;
+	}
+	/*shorts section ends here*/
+
+
+	/*testimonial section starts here*/
+	.owl-theme .owl-dots .owl-dot {
+    	margin: 15px 0px 50px 0px;
+	}
+	.testimonial .details p{
+		margin: 30px 0px 20px 0px;
+	}	
+	.testimonial .details h6{
+		font-size: 13px;
+		margin-left: 10px;
+	}
+	.testimonial .details h5{
+		font-size: 17px;
+		margin-left: 10px;
+	}
+	/*testimonial section ends here*/
+
+
+	/*eye section starts here*/
+	.eye .second button{
+		margin: 10px 5px 10px 5px;
+
+	}
+	/*eye section ends here*/
+
+
+	/*price section starts here*/
+	.price .inner-price{
+		margin:20px 0px 0px 0px;
+	}
+	.price .headings img{
+		margin-bottom: 30px;
+	}
+	/*price section ends here*/
+}
+
+
+
+
+/*for lg*/
+@media(min-width: 992px) and (max-width: 1199px){
+	/*header section starts here*/
+	.banner p{
+		margin: 30px 0px 30px 0px;
+	}
+	/*header section ends here*/
+
+
+	/*feature section starts here*/
+	.feature .headings h6{
+		margin-top: 0px;
+	}
+	 /*feature section ends here*/
+
+
+	 /*about section starts here*/
+	.about .device img{
+		width: 95%;
+	}
+	.about .details .first{
+		margin: 30px 0px 30px 0px;
+	}
+	 /*about section ends here*/
+
+
+	 /*short section starts here*/
+	 .short .device img{
+		margin-top: 100px;
+	}
+	 /*shorts section ends here*/
+}
+
+
+
+
+/*for xl*/
+@media(min-width: 1200px) and (max-width: 1399px){
+
+}
+
+
+
+
+/*for xxl*/
+@media(min-width: 1400px){
+
+}
